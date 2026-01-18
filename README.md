@@ -1,8 +1,6 @@
 # 🔍 ProductScout
 **AI-Powered Competitive Intelligence Platform**
 
-🌐 **Live Demo**: [https://ai-product-scout-spec.vercel.app](https://ai-product-scout-spec.vercel.app)
-
 > **Discover competitors, analyze features, and uncover market opportunities in seconds. Transform product research from hours of manual work into instant, actionable insights.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -155,10 +153,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-
-
-
-[Live Demo](https://ai-product-scout-spec.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
